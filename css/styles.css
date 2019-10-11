@@ -1,0 +1,43 @@
+
+
+body {
+background-color: #888
+
+}
+img{
+width: 150px;
+  height: 200px;
+
+}
+hr{
+background-color white;
+border-color: red;
+hight:1px;
+}
+table,
+td {
+ border:5px solid #333;
+ background-color: #0f0;
+  border-color: #f00;
+  border-style: solid;
+  padding: 0px;
+}
+
+thead,
+tfoot {
+    background-color: #f33;
+    color: #000;
+}
+
+.picture {
+  border:dotted;
+  border-color: red
+}
+.border {
+height: 300px;
+width: 600px;
+background-color:green;
+border: solid ;
+text-align: center
+
+}
